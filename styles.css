@@ -10,7 +10,7 @@
     border-style: none;
     padding: 10px;
     max-width: 29%;
-    opacity: .4;
+    opacity: .7;
 }
 
 .gridtext {
@@ -54,6 +54,7 @@ h4 {
 h3 {
     color:aquamarine;
     font-size:40px;
+    opacity: .9;
     
 }
 
