@@ -4,12 +4,17 @@
     display:inline-block;
     
 }
+
+.PictureSection {
+    display: inline-block;
+    
+}
 .col-md-4 {
     
     display:inline-block;
     border-style: none;
     padding: 10px;
-    max-width: 29%;
+    max-width: 30%;
     opacity: .7;
 }
 
